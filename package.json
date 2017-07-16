@@ -1,0 +1,24 @@
+{
+  "name": "analyze-build-log",
+  "version": "1.0.0",
+  "description": "output times for different tests to make it easy to copy to excel sheet",
+  "main": "analyze.js",
+  "engines": {
+    "node": "~6.9.2"
+  },
+  "dependencies": {
+    "lodash": "4.17.4"
+  },
+  "devDependencies": {
+
+  },
+  "scripts": {
+
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "GuyRomm",
+  "license": "MIT"
+}
